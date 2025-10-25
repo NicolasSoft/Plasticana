@@ -79,8 +79,8 @@ Você pode utilizá-lo livremente, desde que mantenha os créditos do autor.
 ## ✨ Autor
 
 Desenvolvido por **Nicolas Daniel**  
-📧 contato@plasticana.com.br  
-📸 Instagram: [@plasticana.oficial](https://instagram.com/plasticana.oficial)
+📧 contato@plasticana.com.br  //Não Disponível ainda.
+📸 Instagram: [@plasticana.oficial](https://instagram.com/plasticana.oficial)  //Não Disponível ainda.
 
 
 
