@@ -41,4 +41,45 @@ Você pode acessar o site diretamente pelo link abaixo:
 
 ## 📁 Estrutura de Pastas
 
+---
+
+## 🌍 Hospedagem
+
+O site pode ser hospedado gratuitamente em plataformas como:
+- [Vercel](https://vercel.com)
+- [Netlify](https://netlify.com)
+- [GitHub Pages](https://pages.github.com)
+
+Para domínio personalizado (ex: **www.plasticana.com.br**), é possível registrar no  
+🔗 [https://registro.br](https://registro.br)
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir com melhorias!  
+Sugestões de design, desempenho ou novas funcionalidades são bem-vindas.  
+
+1. Faça um **fork** do repositório  
+2. Crie uma **branch**: `git checkout -b minha-melhoria`  
+3. Envie suas alterações: `git commit -m "Melhoria no layout"`  
+4. Faça o **push**: `git push origin minha-melhoria`  
+5. Abra um **Pull Request**
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.  
+Você pode utilizá-lo livremente, desde que mantenha os créditos do autor.
+
+---
+
+## ✨ Autor
+
+Desenvolvido por **Nicolas Daniel**  
+📧 contato@plasticana.com.br  
+📸 Instagram: [@plasticana.oficial](https://instagram.com/plasticana.oficial)
+
+
 
