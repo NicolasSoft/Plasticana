@@ -40,15 +40,16 @@ Você pode acessar o site diretamente pelo link abaixo:
 ---
 
 ## 📁 Estrutura de Pastas
+plasticana/
+│
+├── index.html # Página principal do site
+├── style.css # Estilos e tema ecológico
+├── /imagens # Logotipo e imagens usadas no site
+└── README.md # Documentação do projeto
 
 ---
 
 ## 🌍 Hospedagem
-
-O site pode ser hospedado gratuitamente em plataformas como:
-- [Vercel](https://vercel.com)
-- [Netlify](https://netlify.com)
-- [GitHub Pages](https://pages.github.com)
 
 Para domínio personalizado (ex: **www.plasticana.com.br**), é possível registrar no  
 🔗 [https://registro.br](https://registro.br)
